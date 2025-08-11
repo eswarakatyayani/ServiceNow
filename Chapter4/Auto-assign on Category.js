@@ -5,7 +5,8 @@
    // For using setDisplayValue we can use either backend name or sys_id of the name.
    current.assignment_group.setDisplayValue("softWare"); // lookup field case insensitive
    current.subcategory.setDisplayValue("vpn"); //choice field case sensitive
-   current.description.setDisplayValue("Working on BR"); // text field, can use any 
+ // current.description.setDisplayValue("Working on BR"); // text field, can use any
+  current.description.setDisplayValue("Working on BR by: "+ current.caller_id.getDisplayValue()); // text field, can use any 
    current.business_service.setDisplayValue("clIent seRviCes"); // lookup field case insensitive
  //  current.cmdb_ci="Adobe Download Manager";  // doesnot work
    }
