@@ -1,0 +1,1 @@
+1.	Auto-assign on Category: Write a Business Rule that automatically assigns the incident to the "VPN" assignment group when the Category is "Network".
