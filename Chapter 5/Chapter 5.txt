@@ -1,0 +1,11 @@
+Chapter 5: Script Includes
+•	A Script Include is a reusable server-side JavaScript class or function. 
+•	It allows centralizing logic that can be called from Business Rules, other Script Includes, or GlideAjax.
+•	Supports server-to-server calls and can also be exposed for client-to-server (via GlideAjax).
+Types of Script Includes:
+•	Standard Script Include
+o	Purely server-side code.
+o	Used in Business Rules, Script Actions, Scheduled Jobs, etc.
+•	Client Callable Script Include
+o	Must extend AbstractAjaxProcessor.
+o	Accessed from client-side scripts (UI Scripts, Client Scripts) using GlideAjax.
