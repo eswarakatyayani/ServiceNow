@@ -2,6 +2,6 @@
   var id=current.sys_id;
 	var name= gs.getUserDisplayName();
 	var user= gs.getUserID();
-	GreetingFunction_SI(id,name,user);
+	GreetingFunction_SI(id,name,user); // function call to Script includes, nothing else 
 
 })(current, previous);
