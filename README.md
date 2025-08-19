@@ -1,4 +1,4 @@
 # ServiceNow day 23 of linkedin user
 Up Next:
-clinet script using and learning 3rd type of script includes,
-clinet script using with GildeAjax, g_scratchpad, onLoad(), onChange() and etc...
+1)Gilde APIs like GildeAjax, g_scratchpad, g_form etc..
+2)clinet script using onLoad(), onChange() and it with learning 3rd type of script includes(SI+CS)
