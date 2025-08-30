@@ -1,3 +1,2 @@
-# ServiceNow day 23 of linkedin user
-Up Next
-learning 3rd type of script includes(SI+CS)
+# ServiceNow
+Completed few types of BR, SI, CS and glide APIs
